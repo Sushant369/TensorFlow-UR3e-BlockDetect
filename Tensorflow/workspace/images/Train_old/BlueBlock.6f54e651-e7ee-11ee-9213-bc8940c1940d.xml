@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BlueBlock</folder>
+	<filename>BlueBlock.6f54e651-e7ee-11ee-9213-bc8940c1940d.jpg</filename>
+	<path>C:\Users\susha\Documents\Tensorflow\workspace\images\collectedimages\BlueBlock\BlueBlock.6f54e651-e7ee-11ee-9213-bc8940c1940d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BlueBlock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>105</ymin>
+			<xmax>360</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

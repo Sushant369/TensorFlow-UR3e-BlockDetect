@@ -1,0 +1,26 @@
+<annotation>
+	<folder>RedBlock</folder>
+	<filename>RedBlock.20fe06c1-ee11-11ee-90ab-c88a9aa0671f.jpg</filename>
+	<path>C:\Users\susha\Documents\Tensorflow\workspace\images\collectedimages\RedBlock\RedBlock.20fe06c1-ee11-11ee-90ab-c88a9aa0671f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RedBlock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>201</ymin>
+			<xmax>193</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>

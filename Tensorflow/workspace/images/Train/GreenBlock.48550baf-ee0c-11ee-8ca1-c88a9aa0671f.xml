@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GreenBlock</folder>
+	<filename>GreenBlock.48550baf-ee0c-11ee-8ca1-c88a9aa0671f.jpg</filename>
+	<path>C:\Users\susha\Documents\Tensorflow\workspace\images\collectedimages\GreenBlock\GreenBlock.48550baf-ee0c-11ee-8ca1-c88a9aa0671f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GreenBlock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>118</ymin>
+			<xmax>251</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>
