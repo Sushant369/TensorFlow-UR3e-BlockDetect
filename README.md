@@ -3,7 +3,6 @@
 https://github.com/Sushant369/TensorFlow-UR3e-BlockDetect/assets/72655705/9a011a09-69bb-49aa-a6ad-a0bde677afeb
 
 
-
 [Watch the Video](https://drive.google.com/uc?export=view&id=1a2a8maQDMclrGyuuuUNYEZ1_58RSVY4O)
 
 
